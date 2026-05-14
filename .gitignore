@@ -1,2 +1,6 @@
-node_modules/
+node_modules
 .env
+uploads/attachments/*
+uploads/voice-notes/*
+!uploads/attachments/.gitkeep
+!uploads/voice-notes/.gitkeep
